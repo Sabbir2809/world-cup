@@ -255,6 +255,7 @@ hr {
     font-size: 25px;
   }
 }
+/* Tablet */
 @media only screen and (max-width: 800px) {
   .card__container {
     flex-direction: column;
