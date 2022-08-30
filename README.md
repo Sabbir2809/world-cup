@@ -1,10 +1,12 @@
-## Assignment-2 (World CUp)
+## Assignment-2 (World Cup)
 
 <hr>
 
-- Google Front Added
+[Project Live Link](https://sabbir2809.github.io/world-cup)
 
-- Favicon Added
+- Google Font
+
+- Favicon
 
 - Font Awesome
 
@@ -17,5 +19,3 @@
 - Footer Section
 
 <hr>
-
-[Project Live Link](https://sabbir2809.github.io/world-cup)
